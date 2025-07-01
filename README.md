@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Shirlene
 
-🎓 Undergraduate student in Computer Science with Artificial Intelligence
-🎓 University of Nottingham  
-🎶 Passionate about music, fascinated by astronomy — and always exploring new skills.  
+🎓 Undergraduate student in Computer Science with Artificial Intelligence      
+🎓 University of Nottingham   
+🎶 Passionate about music, fascinated by astronomy — and always exploring new skills   
 
 ## 🌐 Find Me Online
 
-📫 imchulinging@gmail.com | [GitHub](https://github.com/imChuling)
+- imchulinging@gmail.com | [GitHub](https://github.com/imChuling)
 - Instagram: [@imchuling](https://instagram.com/imchuling)  
 - Read Note (小红书): LiCl_7  
 - TikTok (抖音): LING_LiCl
