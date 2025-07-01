@@ -3,10 +3,10 @@
 🎓 Undergraduate student in Computer Science with Artificial Intelligence
 🎓 University of Nottingham  
 🎶 Passionate about music, fascinated by astronomy — and always exploring new skills.  
-📫 imchulinging@gmail.com | [GitHub](https://github.com/imChuling)
 
 ## 🌐 Find Me Online
 
+📫 imchulinging@gmail.com | [GitHub](https://github.com/imChuling)
 - Instagram: [@imchuling](https://instagram.com/imchuling)  
 - Read Note (小红书): LiCl_7  
 - TikTok (抖音): LING_LiCl
